@@ -1,0 +1,411 @@
+[{
+	"id": "0",
+	"title": "贝利亚",
+	"imgurl": "../../static/img/ronghe-icon-beiliya.webp",
+	"cailiao": ["../../static/img/ronghe-icon-anheidijia.webp", "../../static/img/ronghe-icon-anheigeliqiao.webp", "../../static/img/ronghe-icon-anheijiede.webp", "../../static/img/ronghe-icon-anheiqimeila.webp","../../static/img/ronghe-icon-anheisailuo.webp", "../../static/img/ronghe-icon-anheitelijia.webp", "../../static/img/ronghe-icon-anheizhaji.webp","../../static/img/ronghe-icon-tuoleijiya.webp","../../static/img/ronghe-icon-x.webp"],
+	"result": [{
+		"name": "终极贝利亚",
+		"img_val": "../../static/img/ronghe_res_beiliya_00.webp",
+		"skill_val": "电弧帝斯修姆光线",
+		"introduct_info": "凯撒贝利亚吸收了大量艾美纳尔矿石能源后变成的超巨大兽形形态。眼睛的形状酷似变化前，胸部附有和贝利亚同样的彩色计时器，背部有艾美拉鲁矿石晶体，有自我意识，也会说话。实力在前作的最终BOSS合体怪兽贝琉多拉之上"
+	}, {
+		"name": "蓝色终极贝利亚",
+		"img_val": "../../static/img/ronghe_res_beiliya_01.webp",
+		"skill_val": "电弧死亡爪",
+		"introduct_info": "由极恶贝利亚使用金古桥和加拉特隆胶囊融合升华而成（同时召唤出了加拉特隆王，类似于究极光辉赛罗对于帕拉吉之盾的一物两用），实力在于极恶贝利亚和原本的电弧贝利亚之上。最后被捷德、欧布、艾克斯、赛罗用毁灭爆裂、特利尼提姆射线、贝塔火花之箭、赛罗集束射线消灭。"
+	}, {
+		"name": "黑暗大皇帝",
+		"img_val": "../../static/img/ronghe_res_beiliya_02.webp",
+		"skill_val": "雷佐利姆光线",
+		"introduct_info": "灵魂寄宿在奥特一族的宿敌安培拉星人制作的暗黑魔铠装黑暗铠甲中。外表脖子以下的是黑暗铠甲，没有凯撒贝利亚时脸部右侧的伤痕。声音变得更加低沉"
+	}, {
+		"name": "极恶贝利亚",
+		"img_val": "../../static/img/ronghe_res_beiliya_03.webp",
+		"skill_val": "帝斯修姆毁灭",
+		"introduct_info": "贝利亚使用安培拉星人和黑暗路基艾尔两个怪兽胶囊恶魔融合·释放（Demonic Fusion Unleash）超级进化的究极强化形态。吸收了宇宙中扩散的奥特之王的能量，并且使用从斯特鲁姆星人那夺取的斯特鲁姆器官，持续将奥特之王的力量反转成黑暗力量而进一步提升战斗力，同样使用终极战斗仪作为武器。实力强于捷德奥特曼尊皇形态和受伤弱化的赛罗奥特曼超限形态，与奥特之父在力场内僵持20小时后压制奥特之父，最后被捷德分身五个形态的必杀技打回原形。"
+	}, {
+		"name": "凯撒贝利亚",
+		"img_val": "../../static/img/ronghe_res_beiliya_04.webp",
+		"skill_val": "恺撒贝利亚光切",
+		"introduct_info": "贝利亚的进化形态，身穿镶嵌八颗珠子的贝利亚斗篷（ベリアルマント/Belial Mantle），双手的利爪可以伸出红色的指甲，更加锋利尖锐，脸的右侧有一处被赛罗的等离子火花斩砍伤的伤疤。用“凯撒贝利亚之爪”给守护艾斯梅拉达王宫、保护艾美拉娜公主的镜子骑士注入了病毒，为了发泄在怪兽墓场惨败在他手下的怨气而大肆嘲讽赛罗·奥特曼，夺走奥特赛罗眼镜使岚无法变身，在无法变身的岚面前袭击光之国给予他强烈的绝望感，甚至嘲笑岚为“渺小的蚂蚁”，性格比前作更加狡猾、冷酷无情，充满特征的语气也更加激烈。贝利亚奥特曼进化后变得更加强大。在和赛罗的战斗中使用凯撒贝利亚之爪抵挡赛罗头镖和奥特赛罗飞踢、轻易避开艾梅利姆切割、使出帝斯修姆光线将赛罗双生射线打回，将赛罗重创。能踢穿星体"
+	}]
+}, {
+	"id": "1",
+	"title": "布鲁奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-bulu.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "2",
+	"title": "戴拿奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-daina.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "赛迦奥特曼",
+		"img_val": "..\/..\/static\/img\/img_saga_l.png",
+		"skill_val": "赛迦极限拳",
+		"introduct_info": "赛迦奥特曼是由帕拉吉之盾进化成的赛迦气息进而将三人力量化为三个光柱气息后合体诞生的奇迹战士，是在《奥特曼传奇》中由赛罗、戴拿、高斯三人的心成为一体，为了对战海帕杰顿而诞生的奥特战士。作为神秘四奥之一的赛迦奥特曼的必杀技是将全身力量集中到拳头的所有宇宙最强究极技——赛迦极限拳"
+	}]
+}, {
+	"id": "3",
+	"title": "迪迦奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-dijia.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "4",
+	"title": "高斯奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-gaosi.webp",
+	"cailiao": ["../../static/img/ronghe-icon-daina.webp", "../../static/img/ronghe-icon-sailuo.webp", "../../static/img/ronghe-icon-jiesitisi.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "赛迦奥特曼",
+		"img_val": "..\/..\/static\/img\/img_saga_l.png",
+		"skill_val": "赛迦极限拳",
+		"introduct_info": "赛迦奥特曼是由帕拉吉之盾进化成的赛迦气息进而将三人力量化为三个光柱气息后合体诞生的奇迹战士，是在《奥特曼传奇》中由赛罗、戴拿、高斯三人的心成为一体，为了对战海帕杰顿而诞生的奥特战士。作为神秘四奥之一的赛迦奥特曼的必杀技是将全身力量集中到拳头的所有宇宙最强究极技——赛迦极限拳"
+	}, {
+		"name": "雷杰多奥特曼",
+		"img_val": "..\/..\/static\/img\/ronghe-leijieduo.webp",
+		"skill_val": "火花传说",
+		"introduct_info": "雷杰多奥特曼是在迎击德拉西翁的最终兵器——千兆恩多拉的高斯和杰斯提斯陷入苦战时，为了从宇宙最强兵器手中守护地球，心意合一之时以奇迹的力量融合合体的奥特曼，被称作是「充满了如同不死鸟一般的黄金光芒」究极的英雄，发挥与「全能之光」相应的战斗力，与千兆恩多拉对决，是大宇宙歌颂的传说"
+	}]
+}, {
+	"id": "5",
+	"title": "捷德奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-jiede.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-gaosi.webp", "../../static/img/ronghe-icon-rob.webp", "../../static/img/ronghe-icon-mengbiyousi.webp", "../../static/img/ronghe-icon-tailuo.webp", "../../static/img/ronghe-icon-ginga.webp", "../../static/img/ronghe-icon-x.webp", "../../static/img/ronghe-icon-aguru.webp", "../../static/img/ronghe-icon-anheiqimeila.webp"],
+	"result": [{
+		"name": "刚燃形态",
+		"img_val": "../../static/img/ronghe-jiede-ganran.webp",
+		"skill_val": "布鲁斯特冲击光线",
+		"introduct_info": "由赛文奥特曼和雷欧奥特曼之力融合升华而成的怪力形态，全身覆盖坚硬的铠甲，可以发挥出刚力。驱使体内产生的超高热能量，身体的喷射器可以喷出蒸汽或火焰进行推动，擅长肉搏战，代表必杀技是从右手发出的布鲁斯特冲击光线（冲击增幅）"
+	}, {
+		"name": "机敏形态",
+		"img_val": "../../static/img/ronghe-jiede-jimin.webp",
+		"skill_val": "阿托莫斯冲击波",
+		"introduct_info": "由希卡利奥特曼和高斯奥特曼（月神模式）之力融合升华而成的超高速形态。身手敏捷，特征是极快的速度和连续性攻击，可以使用光剑以及感化怪兽的光线技能，代表技能是双手组成十字型（右手前置）放出的阿托莫斯冲击波（大气压冲击）"
+	}, {
+		"name": "豪勇形态",
+		"img_val": "../../static/img/ronghe-jiede-haoyong.webp",
+		"skill_val": "强力爆裂光线",
+		"introduct_info": "由赛罗奥特曼和奥特之父之力融合升华而成的超能力形态，全身的攻击力、超能力以及光线技能的威力都得到飞跃性提升的战斗姿态，上半身着装坚固强劲的装甲，全身爆发出超强的力量。必杀技是将双手组成L型、一口气释放火花能量的“强力爆裂光线”（大爆炸光路）。"
+	}, {
+		"name": "尊皇形态",
+		"img_val": "../../static/img/ronghe-jiede-zunhuang.webp",
+		"skill_val": "尊皇超绝破坏光线",
+		"introduct_info": "由贝利亚奥特曼和奥特之王之力产生的王者圣剑解放自己力量融合升华而成的超战斗形态，由朝仓陆的正义之心和勇气连接起的正邪融合的强大力量。专属武器为“王者圣剑”，是捷德在TV中的最强形态，代表必杀技是从王者圣剑发出的尊皇超绝破坏光线（皇家终结）"
+	}, {
+		"name": "终极形态",
+		"img_val": "../../static/img/ronghe-jiede-zhongji.webp",
+		"skill_val": "毁灭新星",
+		"introduct_info": "是捷德自身的斗志和能量的终极进化，此形态下捷德的力量、速度以及所拥有的技能全部解除限制，战斗力全面提升。捷德・究极最终能使用融合升华形态的技能。武器是终极升华器（千兆终结器），必杀技是从战斗仪端部发出的捷德终极半月斩（新月最终捷德）"
+	}, {
+		"name": "银河初升",
+		"img_val": "../../static/img/ronghe-jiede-yinhe.webp",
+		"skill_val": "银河爆裂",
+		"introduct_info": "在捷德升华器被复活的吉尔巴利斯破坏后，由朝仓陆使用希卡利奥特曼所的泽塔升华器和银河、艾克斯、欧布的奥特勋章进行奥特融合变身而成的形态。以平衡性很好的原始形态为基础，攻击能力全方面得到强化。"
+	}, {
+		"name": "光子骑士",
+		"img_val": "../../static/img/ronghe-jiede-guangzi.webp",
+		"skill_val": "骑士流线",
+		"introduct_info": "由盖亚·奥特曼和希卡利·奥特曼的胶囊升华而成，必杀技是骑士流线。"
+	}, {
+		"name": "英勇挑战",
+		"img_val": "../../static/img/ronghe-jiede-yongzhan.webp",
+		"skill_val": "梦比姆巨大光轮",
+		"introduct_info": "由欧布·奥特曼斯佩修姆哉佩利敖形态和梦比优斯奥特曼之力融合升华而成，必杀技是左手寄宿着巨大的光之断头刀，靠近后将敌人粉碎的梦比姆巨大光轮。"
+	}, {
+		"name": "诺亚继承者",
+		"img_val": "../../static/img/ronghe-jiede-noya.webp",
+		"skill_val": "神圣剑光·超限驱动",
+		"introduct_info": "由究极赛罗和奈克瑟斯·奥特曼红色青年形态的胶囊升华而成，能使用终极零式长剑，必杀技是神圣剑光·超限驱动"
+	}, {
+		"name": "斗魂形态",
+		"img_val": "../../static/img/ronghe-jiede-douhun.webp",
+		"skill_val": "燃烧终极飞踢",
+		"introduct_info": "由雷欧·奥特曼和阿斯特拉·奥特曼胶囊融合升华而成，必杀技是腿部聚集巨大能量放出的燃烧终极飞踢。"
+	}, {
+		"name": "神辉形态",
+		"img_val": "../../static/img/ronghe-jiede-shenhui.webp",
+		"skill_val": "冻结时空",
+		"introduct_info": "由初代奥特曼和光辉赛罗之力融合升华而成，必杀技是停止住时间封住对方的动作，然后放出光线的斯派修姆繁星驱动"
+	}]
+}, {
+	"id": "6",
+	"title": "罗索奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-luosuo.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "7",
+	"title": "梦比优斯",
+	"imgurl": "../../static/img/ronghe-icon-mengbiyousi.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "8",
+	"title": "奈克赛斯",
+	"imgurl": "../../static/img/ronghe-icon-naikesaisi.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "9",
+	"title": "欧布奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-rob.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "10",
+	"title": "赛罗奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-sailuo.webp",
+	"cailiao": ["../../static/img/ronghe-icon-daina.webp", "../../static/img/ronghe-icon-gaosi.webp", "../../static/img/ronghe-icon-dijia.webp", "../../static/img/ronghe-icon-mengbiyousi.webp"],
+	"result": [{
+		"name": "超限赛罗",
+		"img_val": "..\/..\/static\/img\/zero-chaoxian.webp",
+		"skill_val": "超限集束射线",
+		"introduct_info": "希卡利奥特曼将新世代胶囊交给赛罗，使用升华器（赛罗模式）进行新·融合升华（ネオ・フュージョンライズ/NEOFusionRise）所诞生的赛罗的新形态。通过组装奥特赛罗眼镜Neo的升华器并使用寄宿着银河、欧布起源力量的新世代胶囊α和寄宿着维克特利、艾克斯力量的新世代胶囊β变身而成。拥有凌驾赛罗普通形态的力量、全能力提升了2倍以上（首次登场于《捷德奥特曼》第8话）。通常情况下，超限只有赛罗和伊贺栗令人一体化时才能变身，赛罗自己并不能单独变成这个形态。但是《奥特曼金曲新世代篇》赛罗·奥特曼与银河·奥特曼、维克特利·奥特曼、艾克斯奥特曼、欧布奥特曼直接合体超限赛罗，后来在《奥特银河格斗：新世代英雄》中，赛罗得到捷德帮助创建的由银河、维克特利、艾克斯、欧布亲自灌输能量的新世代奥特胶囊，全身充满着金色光芒的赛罗奥特曼超限诞生，这个状态的赛罗奥特曼超限在发售的SHF中被称为赛罗奥特曼超限（银河闪耀）"
+	}, {
+		"name": "黑暗赛罗奥特曼",
+		"img_val": "..\/..\/static\/img\/zero-anhei.webp",
+		"skill_val": "黑暗赛罗闪光",
+		"introduct_info": "【宇宙最强的肉体】与【宇宙最恶的灵魂】融合所诞生的最强大的黑暗战士。被破坏了的暗黑铠甲中脱离出来的贝利亚的灵魂所侵入赛罗体内诞生出来的样子。也算贝利亚的形态。外表是和赛罗一样的，身上的颜色和线条变得和贝利亚差不多，究极手镯也被染上了黑色。意识完全由贝利亚支配，声音也变得和贝利亚一样。赛罗的意识是只能看见周围的情况却不能控制自己的身体。斯兰称「得到了最强的肉体」。有着团灭究极赛罗警备队的压倒性实力，能够轻松地模仿赛罗的技能作战，黑暗赛罗仅仅展示了冰山一角的力量便轻易杀死镜子骑士、红莲火焰、詹伯特、詹奈和摧毁了终极赛罗警备队基地（后基地被光辉赛罗倒流时间修复，终极赛罗警备队也被复活）。"
+	}, {
+		"name": "光辉赛罗奥特曼",
+		"img_val": "..\/..\/static\/img\/zero-guanghui.webp",
+		"skill_val": "时空逆流",
+		"introduct_info": "最先登场于赛罗的内心中，后登场于现实中。在心灵之战中驱逐了贝利亚的灵魂，夺回了躯体，后以光辉繁星驱动耗尽全部能量复活了究极武装赛罗警备队全员，但也复活了贝利亚以及黑暗五天王的地狱的迦塔尔。首次登场由于耗尽能量，无法记忆起这个形态，更无从得知如何运用。在圆谷官方刊登平台TSUBURAYAGALAXY的Vol.18的衔接奥特赛罗格斗之后故事的官方小说《究极武装赛罗警备队~SideStory~》第1章时之瀑潭中听说时之瀑潭并前往此地，经守门人许可跳进时之瀑潭掌握能再变成光辉的力量、并且与往常的赛罗不同，内心却如同止水般平静。且似乎由于获得了超然的力量，使精神的等级也提升了，但离熟练运用还路途遥远。"
+	}, {
+		"name": "究极赛罗",
+		"img_val": "..\/..\/static\/img\/zero-jiuji.webp",
+		"skill_val": "瞬发最终究极赛罗",
+		"introduct_info": "持有着神秘莫测，难以想象的强大力量，但是并不能无限制使用，在进行平行世界之间的穿越时要使用大量能源，因而会暂时不能使用。在『超级赛罗格斗』第二部中，穿着究极圣盾的效果音效和奈克瑟斯·奥特曼的变身音效是相同的。基本上究极圣盾都是以常态赛罗的身姿穿着的，但在2012年11月公演的奥特英雄剧场秀中第18弹以强壮日冕赛罗的姿态穿着，和梦比优斯凤凰形态以及赛文X共同战斗。然后在2012年12月28日到2013年1月6日开展的「正月！奥特曼全员集合！」的战斗舞台中以奇迹月神赛罗的身姿使用究极圣盾，并且像奇迹赛罗头镖一样让超弓模式的究极圣盾分裂后进行连射攻击。"
+	}, {
+		"name": "究极光辉赛罗",
+		"img_val": "..\/..\/static\/img\/zero-jjgh.webp",
+		"skill_val": "US[究极光辉]赛罗集束射线",
+		"introduct_info": "在2013年的舞台剧——奥特曼战斗剧场20弹中，赛罗凭光辉形态召唤出体内的究极赛罗之剑，之后再召唤出整套究极圣盾以超弓模式对抗敌人《奥特银河格斗：巨大阴谋》中，为了对抗阿布索留特·塔尔塔洛斯而首次在光辉赛罗的状态下强行同时着装究极圣盾，成为是将操纵时间的光辉之力，空间移动的究极圣盾，两股强大的力量强行同时发动的身姿。即使单体也会消耗相当多的体力。由于叠加力量，对身体的负担和能量的消耗也是不同寻常的，无法长期维持。即使解除后也会残留下巨大的伤害"
+	}, {
+		"name": "月神奇迹赛罗",
+		"img_val": "..\/..\/static\/img\/zero-yueshen.webp",
+		"skill_val": "粒子·月神奇迹",
+		"introduct_info": "称赛罗奥特曼·月神奇迹型继承高斯奥特曼·月神模式和戴拿奥特曼·奇迹型的能力并最大限度引出战斗，赛罗深蓝的类型转换强化形态。强化了超能力和速度。头部的赛罗头镖和彩色计时器的边缘是蓝色。身体颜色被强调的是深浅不同的蓝色。在进行超高速移动或者格斗战的时候，展示出奇迹的力量的蓝色的赛罗奥特曼（超高速战士），同时也被被赋予了高斯月神形态的力量，因此，拥有净化怪兽的灵魂以及治愈能力。能进行高速移动。"
+	}, {
+		"name": "强壮日冕赛罗",
+		"img_val": "..\/..\/static\/img\/zero-rimian.webp",
+		"skill_val": "奥特飓风",
+		"introduct_info": "全称赛罗奥特曼·强壮日冕型。继承戴拿奥特曼·强壮型和高斯奥特曼·日冕模式的能力并最大限度引出战斗，赛罗赤红的类型转换强化形态。强化了力量和肉搏战。头部的赛罗头镖和彩色计时器的边缘，以及身体的线条呈现金色，整体以上半身为红色，下半身为银色为基调。拥有强大的力量，在肉搏战中发挥出戴拿强壮形态的力量的红色赛罗奥特曼（超力量战士），同时也兼备高斯日冕形态的超强光线技能"
+	}, {
+		"name": "赛迦奥特曼",
+		"img_val": "..\/..\/static\/img\/img_saga_l.png",
+		"skill_val": "赛迦极限拳",
+		"introduct_info": "赛迦奥特曼是由帕拉吉之盾进化成的赛迦气息进而将三人力量化为三个光柱气息后合体诞生的奇迹战士，是在《奥特曼传奇》中由赛罗、戴拿、高斯三人的心成为一体，为了对战海帕杰顿而诞生的奥特战士。作为神秘四奥之一的赛迦奥特曼的必杀技是将全身力量集中到拳头的所有宇宙最强究极技——赛迦极限拳"
+	}]
+}, {
+	"id": "11",
+	"title": "泰嘉奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-taijia.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "12",
+	"title": "艾克斯奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-x.webp",
+	"cailiao": ["../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp", "../../static/img/ronghe-icon-beiliya.webp"],
+	"result": [{
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}, {
+		"name": "",
+		"img_val": "",
+		"skill_val": "",
+		"introduct_info": ""
+	}]
+}, {
+	"id": "13",
+	"title": "泽塔奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-zt.webp",
+	"cailiao": ["../../static/img/ronghe-icon-aguru.webp", "../../static/img/ronghe-icon-ginga.webp", "../../static/img/ronghe-icon-tailuo.webp", "../../static/img/ronghe-icon-telijia.webp", "../../static/img/ronghe-icon-x.webp", "../../static/img/ronghe-icon-dijia.webp", "../../static/img/ronghe-icon-gaosi.webp", "../../static/img/ronghe-icon-sailuo.webp"],
+	"result": [{
+		"name": "阿尔法装甲",
+		"img_val": "../../static/img/ronghe_res_zt_00.webp",
+		"skill_val": "泽斯帝姆光线",
+		"introduct_info": "该形态是由夏川遥辉将分别含有赛罗奥特曼、奥特赛文、雷欧奥特曼三位奥特战士的力量的奥特勋章装填在泽塔升华器中进行变身而成的形态。在保留泽塔奥特曼特有的Z型彩色计时器和头顶上的飞镖形头冠的情况下，添加了三名奥特战士的特征：添加了赛罗的赛罗头镖型头冠、上半身为蓝、下半身为红的元素，耳朵像赛文和雷欧般突出，同时也添加类似于赛罗和赛文的整体花纹和装甲，整体防御力不俗，但也不影响本身的速度"
+	}, {
+		"name": "贝塔冲击",
+		"img_val": "../../static/img/ronghe_res_zt_03.webp",
+		"skill_val": "宇宙泽塔之光",
+		"introduct_info": "变身者使用寄宿了奥特兄弟——奥特曼、艾斯奥特曼、泰罗奥特曼力量的奥特勋章变身而成的强化形态。属于强力型战士，通过三个奥特战士的力量将泽塔全身的肌肉强化至极限，大幅度加强格斗技的破坏力，在战斗中发挥出惊人的力量重创敌人。继承了来自奥特曼的众多格斗技和艾斯的切割光线技，擅长力量上硬碰硬的对抗，其特征是充满压制力的摔角式打法"
+	}, {
+		"name": "伽马未来",
+		"img_val": "../../static/img/ronghe_res_zt_04.webp",
+		"skill_val": "伽马能量炸弹",
+		"introduct_info": "变身者使用寄宿了全新的光芒—迪迦奥特曼、戴拿奥特曼、盖亚奥特曼力量的奥特勋章变身而成的强化形态。是使用不可思议的力量作战的超能力型形态，能够运用多种光线技能，擅长变化多端、以巧取胜的战斗方式。"
+	}, {
+		"name": "德尔塔天爪",
+		"img_val": "../../static/img/ronghe_res_zt_01.webp",
+		"skill_val": "德尔塔穿击射线",
+		"introduct_info": "最大的特点就是以「贝利亚黄昏」作为该形态的武器，该武器同样可以在其他形态中使用。展现出超出常理的实力，以压倒性的战斗方式战胜强敌"
+	}]
+}, {
+	"id": "14",
+	"title": "特利迦奥特曼",
+	"imgurl": "../../static/img/ronghe-icon-telijia.webp",
+	"cailiao": ["../../static/img/ronghe-icon-aguru.webp", "../../static/img/ronghe-icon-ginga.webp", "../../static/img/ronghe-icon-tailuo.webp", "../../static/img/ronghe-icon-telijia.webp", "../../static/img/ronghe-icon-x.webp", "../../static/img/ronghe-icon-dijia.webp", "../../static/img/ronghe-icon-gaosi.webp", "../../static/img/ronghe-icon-sailuo.webp"],
+	"result": [{
+		"name": "特利迦复合型",
+		"img_val": "../../static/img/character_ultraheros_img_trigger.webp",
+		"skill_val": "哉佩利敖光线",
+		"introduct_info": "使用「胜利神光棒」，配合「复合型之钥」变身的基本形态，力量·速度基本均衡。无论战斗的场地如何，都能发挥能力。使用圆环之臂时，以圆环之臂的基本形态进行战斗。技能有：哉佩利敖光线、特利迦切割、特利迦手掌光箭、明亮射击等"
+	}, {
+		"name": "特利迦强力型",
+		"img_val": "../../static/img/character_ultraheros_img_trigger2.webp",
+		"skill_val": "迪拉修姆光流",
+		"introduct_info": "使用「胜利神光棒」，配合「强力型之钥」变化形态成为的派生形态，偏重力量的强力型。和重量级的敌人进行肉搏战时更容易发挥出威力。使用圆环之臂时，使用圆环之臂·强力爪以爪形进行战斗。"
+	}, {
+		"name": "特利迦空中型",
+		"img_val": "../../static/img/character_ultraheros_img_trigger3.webp",
+		"skill_val": "兰帕尔特光弹",
+		"introduct_info": "使用「胜利神光棒」，配合「空中型之钥」变化形态成为的派生形态，偏重敏捷的空中型。在空中战斗或是进行高速战斗时更容易发挥出威力。使用圆环之臂时，以箭头形式使用圆环之臂·空中弓进行战斗。"
+	}, {
+		"name": "永恒闪耀特利迦",
+		"img_val": "../../static/img/character_ultraheros_img_trigger4.webp",
+		"skill_val": "闪耀哉佩利敖光线",
+		"introduct_info": "使用永恒核心碎片的力量变身而成的形态。可以从拥有三种形态力量的胸部三角形水晶中召唤出现的具有强大力量的闪耀之刃战斗。"
+	}, {
+		"name": "黑暗特利迦",
+		"img_val": "../../static/img/character_ultraheros_img_trigger5.webp",
+		"skill_val": "黑暗哉佩利敖光线",
+		"introduct_info": "黑暗巨人的一员，黑暗特利迦与卡尔蜜拉、达贡、希特拉姆等人一起瞄准了永恒核心。 卡尔蜜拉的黑暗魔法导致了特利迦恢复原来容貌和黑暗力量的复苏。必杀技是双臂呈L形折叠的黑暗哉佩利敖光线。"
+	}]
+}]
