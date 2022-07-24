@@ -1,26 +1,200 @@
 <!DOCTYPE html>
 <html lang="zh">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>{{ title }}</title>
-	<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
-</head>
-<body>
-	<div id="app">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<meta name="Keywords" content="ultraman zero,奥特曼,测一测,赛罗,迪迦,贝利亚,捷德,银河奥特曼,格丽乔,泽塔,泰迦奥特曼,艾斯,欧布,艾迪,赛文,盖亚,戴拿,托雷基亚,梦比优斯,阿古茹,风马,泰塔斯,罗布,欧布,布鲁,赛迦,罗索,奥特之父,奥特之母,奥特之王,泰罗,杰克,
+		ultraman ribut,ultraman upin ipin,ultraman ribut upin ipin,ultraman ribut terbaru,youtube short ultraman,tiktok ultraman,story wa ultraman,likee ultraman,tiktok ultraman lucu,story wa ultraman lucu,likee ultraman lucu,terbaru,viral,2021,viral 2021,ultraman geed,ultraman orb,ultraman zero,galactron,ultraman ginga,truk oleng,truk tambang,truk,mobil oleng">
+		<title>{$art_info['introduction']}</title>
+		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1317315940914021"
+		     crossorigin="anonymous"></script>
+	</head>
+	<style type="text/css">
+		body {
+			background-color: #0b0d20;
+			background-image: url('{$art_info['first_page_img']}');
+			background-repeat: no-repeat;
+			background-size: 102%;
+
+		}
+		@media screen and (min-width: 830px) {
+			body {
+			background-color:#0b0d20;
+			background-image: url('{$art_info['first_page_img']}');
+			background-repeat: no-repeat;
+            background-position-x:50% ;
+			background-size: unset;
+			margin: 0 auto;
+			max-width: 360px;
+
+			}
+
+    	}
+
+
+
+        a{
+			list-style: none;
+			text-decoration: none;
+			color: black;
+		}
+		.btn_click {
+			width: 100%;
+			height: 8rem;
+			background-image: url("../../static/img/click.png");
+			background-repeat: no-repeat;
+			background-size: 60%;
+			background-position: center;
+			margin-top: 130%;
+			-webkit-animation: mymove 5s infinite;
+			/* Chrome, Safari, Opera */
+			animation: mymove 5s infinite;
+		}
+
+		@keyframes mymove {
+			0% {
+				transform: scale(1);
+				/*开始为原始大小*/
+			}
+
+			25% {
+				transform: scale(1.05);
+				/*放大1.1倍*/
+			}
+
+			50% {
+				transform: scale(1);
+			}
+
+			75% {
+				transform: scale(1.05);
+			}
+
+		}
+
+		@-webkit-keyframes mymove
+
+		/*Safari and Chrome*/
+			{
+			0% {
+				transform: scale(1);
+				/*开始为原始大小*/
+			}
+
+			25% {
+				transform: scale(1.05);
+				/*放大1.1倍*/
+			}
+
+			50% {
+				transform: scale(1);
+			}
+
+			75% {
+				transform: scale(1.05);
+			}
+		}
+
+		.product_list {
+			width: 96%;
+			height: 130rem;
+			background-color: #ffffff;
+			border-radius: 1rem;
+			display: block;
+			margin: 0 auto;
+			box-shadow: white 0px 0px 10px 4px;
+			margin-top: 10%;
+		}
+
+		button {
+			width: 30%;
+			height: 20%;
+			border-radius: 20px;
+			background-color: #3A87AD;
+			color: white;
+			/* font-size: 1em; */
+			border: none;
+            line-height: 20%;
+			margin-left: 60%;
+			/* margin-top: 16%; */
+		}
+
+		.listinfo {
 		
-	
-	<h1>{{ message }}</h1>
-	</div>
-</body>
+			margin: 0 auto;
+			margin-top: 10px;
+			padding-right: 3px;
+			border-bottom: 1px dotted #666;
+			position: relative;
+		}
+
+		.leftContent {
+			position: absolute;
+			top: 4px;
+			left: 4px;
+		}
+
+		.leftContent img {
+
+			width: 20%;
+			border: 1px solid #ccc;
+			padding: 2px;
+		}
+
+		.rightContent {
+			margin-left: 25%;
+			height: 150px;
+
+
+		}
+		.rightContent p{
+			color: #CCCCCC;
+			font-size: 0.8em;
+		}
+		.rightContent h4{
+			color: #060e68;
+			
+		}
+	</style>
+	<body class="container-fluid" style="background-color: {$art_info.back_color|default=''};">
+		<div class="row">
+
+			<!-- 点击按钮 -->
+			<a href="{:url($art_info.controller)}?id={$aid}">
+				<div class="btn_click"></div>
+
+			</a>
+		</div>
+
+		<div class="row product_list">
+			<img src="../../static/img/hot.png" width="100%">
+
+			<!-- 产品列表 -->
+			{volist name='hot_info' id='vo'}
+			<div class="listinfo">
+				<a href="{:url('index/index/index')}?id={$vo.id}">
+					<div class="leftContent"><img src="{$vo.first_page_img}"></div>
+					<div class="rightContent">
+						<h4>{$vo.game_title}</h4>
+						<p>{$vo.introduction}</p>
+						<button type="button">立即测试</button>
+					</div>
+				</a>
+			</div>
+			{/volist}
+			<p style="text-align: center;font-size: 1em;color: #CCCCCC;padding:10%;">这已经是我的底线了o(╥﹏╥)o</p>
+			
+		</div>
+		
+	</body>
 </html>
-<script type="text/javascript">
-	var app = new Vue({
-	  el: '#app',
-	  data: {
-	    message: 'Hello Vue!',
-		title: '首页标题'
-	  }
-	})
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HKFQHPC4RN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HKFQHPC4RN');
 </script>
+
